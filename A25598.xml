@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answer to the letter from Amsterdam of April the 18th, 1678 being found at Harwich, open'd and carried to the magistrates of that place.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25598</idno>
+            <idno type="STC">Wing A3416</idno>
+            <idno type="STC">ESTC R28300</idno>
+            <idno type="EEBO-CITATION">10521537</idno>
+            <idno type="OCLC">ocm 10521537</idno>
+            <idno type="VID">45176</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25598)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45176)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1394:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Answer to the letter from Amsterdam of April the 18th, 1678 being found at Harwich, open'd and carried to the magistrates of that place.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45176:1"/>
+            <pb facs="tcp:45176:1" rendition="simple:additions"/>
+            <p>AN ANSWER TO THE LETTER FROM Amſterdam, Of <hi>April</hi> the 18. 1678.</p>
+            <p>Being found at <hi>Harwich,</hi> open'd, and carried to the Magi<g ref="char:EOLhyphen"/>ſtrates of that Place.</p>
+            <q>—<hi>Redit labor actus in Orbem.</hi>
+            </q>
+            <p>Printed <hi>Anno Dom.</hi> 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:45176:2"/>
+            <pb n="1" facs="tcp:45176:2" rendition="simple:additions"/>
+            <head>AN ANSWER TO THE LETTER from <hi>Amſterdam,</hi> Of <hi>April</hi> the 18. 1678.</head>
+            <opener>
+               <salute>Dear Fellow-Labourer,</salute>
+            </opener>
+            <p>YOurs of the 18th, of <hi>April</hi> came to a thou<g ref="char:EOLhyphen"/>ſand hands, before it reach'd mine. You do ill to commit matters of ſuch Impor<g ref="char:EOLhyphen"/>tance to any thing, but to <hi>Cypher,</hi> knowing how much we have always ow'd to <hi>Diſguiſes:</hi> For which reaſon our Apoſtles preach not, but in a <hi>Cloak,</hi> and, for greater ſecurity, under two <hi>Caps,</hi> and chooſe their Texts out of the <hi>myſterious</hi> Book of the Revelations: They underſtand well enough that the precious Seed, which they ſow, will not grow, unleſs it be well <hi>covered,</hi> and that the Chil<g ref="char:EOLhyphen"/>dren of <hi>Light</hi> are none of the wiſeſt Generation. It grieved my heart, and almoſt turn'd my ſto<g ref="char:EOLhyphen"/>mach, to ſee the <hi>Old</hi> Cauſe look like an <hi>Old</hi> Cour<g ref="char:EOLhyphen"/>tiſane newly riſen, undreſs'd, unpainted, and un<g ref="char:EOLhyphen"/>perfum'd. What a vaſt difference there is be<g ref="char:EOLhyphen"/>tween the Cauſe <hi>dreſs'd,</hi> and <hi>undreſs'd?</hi> I beſeech
+<pb n="2" facs="tcp:45176:3" rendition="simple:additions"/>thee, who could endure to look on the <hi>Hag</hi> in her <hi>nakedneſs,</hi> her deſign of ſubverting Church and State, dethroning Kings, turning out Biſhops, and deſtroying men for daring to be <hi>honeſt</hi> and <hi>rich,</hi> in fine, in her <hi>Native</hi> cheating, lying, and for<g ref="char:EOLhyphen"/>ſwearing, with a thouſand other Helliſh qualities? But when ſhe hath <hi>put on</hi> her tender Conſcience, her fears of Popery and Arbitrary Government, her good will towards the King, and her chari<g ref="char:EOLhyphen"/>table endeavours to reform his Miniſters: In good faith! ſhe is not the ſame thing. Wherefore, my dear Brother, let us behave our ſelves like good <hi>Jockies,</hi> and not diſcover the faults of our Beaſt, till ſhe is ſold. This, I aſſure thee, was the Art of our noble and ſucceſsful Predeceſſors, whoſe Deſigns the <hi>Well-meaning</hi> men (as they call'd them) never perceived, till paſt their power to prevent.</p>
+            <p>However, as the Devil will have it, the <hi>Publi<g ref="char:EOLhyphen"/>cation</hi> of thy Letter has not done us much harm: For, People are now ſo well and ſolidly deceived, that it is no ſuch eaſie task to cure 'em. We talk'd to 'em formerly ſo much of the Goſpel, that 'tis now <hi>Natural</hi> for 'em to take every thing, we ſpeak, for ſuch. 'Tis true, it coſt us many a pain<g ref="char:EOLhyphen"/>ful grimaſs, many a ſcrued eye, much wringing of the hands, and many an heart-rending groan, be<g ref="char:EOLhyphen"/>fore they came to the Lure; but when we had once blinded 'em, we 'ene did what we pleaſed with 'em: We made ſport with 'em as the <hi>Phi<g ref="char:EOLhyphen"/>liſtines</hi> did with <hi>Sampſon,</hi> and may continue to
+<pb n="3" facs="tcp:45176:3" rendition="simple:additions"/>do ſo, provided we remember to keep their hair cropt, <hi>that is,</hi> inſtruct 'em well in the <hi>Presbyterian</hi> Catechiſm. I muſt confeſs, it is wonderful to ſee, with what eaſe they ſwallow any thing from us, in ſo much as it is hard to tell, whether their throats are wider in taking in our <hi>Impostures,</hi> than ours would be in devouring them, whenever they fall within our clutches. We told them, that <hi>War</hi> with <hi>France</hi> was ſo neceſſary for us, that we ought to begin it before the leaſt preparation was made towards it: and they believ'd us. Preſently we tell 'em, that twenty <hi>trifles</hi> are far more neceſſary to be provided for, than the <hi>War:</hi> and they call it the Senſe of the Nation. We told the King, that we could not adviſe him either to War or Peace, unle<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> we knew every individual part and circumſtance of his late Meſſage into <hi>France, &amp;c.</hi> and yet we took upon us a little before to adviſe him to a Declaration of War, when we under<g ref="char:EOLhyphen"/>ſtood nothing of thoſe matters: and our ſhifting paſſes undiſcover'd. We ſay, that it is our Inte<g ref="char:EOLhyphen"/>reſt to joyn with any of the Confederates, that ſhall yet dare to ſtand out againſt the <hi>French</hi> King; and yet at the ſame time, and during the inſtant Treaty, we think fit to disband our Army, that no Confederate may be encouraged to do ſo. On the one ſide we profeſs, that there is no ſafety for us, unleſs we reduce the <hi>French</hi> Affairs to their condition at the <hi>Pyrenean</hi> Treaty; and on the other we take care in this conjuncture, to give his <hi>Most Christian Majesty</hi> the beſt opportunity
+<pb n="4" facs="tcp:45176:4"/>we are able, of making good terms. And when the noiſe of our coming into the Confederacy, had made him quit <hi>Sicily,</hi> and offer Propoſals for Peace, we reſolved to eaſe his mind of thoſe fears, and leave him to prey on <hi>Europe</hi> in quiet: and after all we gravely call the Courtiers <hi>Penſioners of France,</hi> and make the People believe, that the King himſelf is ſelling <hi>Three Kingdoms</hi> for a <hi>French Marquiſate.</hi> When we have a mind to accuſe any Great Miniſter, 'tis enough for us to cry <hi>ſtop Thief</hi> once, and all the Hounds open immediately: and becauſe we alledge nothing againſt him, they conclude his crimes <hi>unſpeakable.</hi> I vow to thee, it tickles me, to behold how eaſily we gull 'em. They are raviſhed with our Votes as ſoon as ever they hear 'em: Nay they are ready to ſwear they are good, before they know what they are. The firſt ſentence is, <hi>What has the Houſe of Commons done to day?</hi> The ſecond, <hi>And very well done too.</hi> So that I verily believe, ſhould they hear of a Vote paſſed for a Navy to cruiſe on <hi>Salisbury</hi> Plains, or that the Houſe of Commons be en<g ref="char:EOLhyphen"/>truſted with the <hi>Militia,</hi> they would inſtantly proteſt, that it were the moſt reaſonable thing in the World. I am of opinion, that they imagine the <hi>Commons</hi> bound by their places to ſave the reſt of the Nation the labour of Think<g ref="char:EOLhyphen"/>ing, and that it were ridiculous not to truſt thoſe with their <hi>Reaſon,</hi> whom they have tru<g ref="char:EOLhyphen"/>ſted with (what they account more precious) their <hi>Purſe.</hi>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:45176:4" rendition="simple:additions"/>The <hi>King</hi>'s late Speech, and the <hi>Chancellor</hi>'s gave us ſome rub: They had ſo much plain and undeniable Reaſon in them, that ſeveral of our <hi>Well-meaning</hi> Party began to fail us. But a little patience will bring all about again. We muſt ſeem to yield at firſt, then protract matters, ſpend whole days in ſober debate whether <hi>forthwith, immediately,</hi> or <hi>out of hand</hi> be moſt proper, as if our <hi>Parliament</hi> intended to vie with the <hi>French Academy</hi> in refining Language, and then when matters are indifferently well perplex'd, and the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pretty thick, ſecretly clap on a weight, and bring in an <hi>appropriating clauſe,</hi> which, like the ſubſtracting mark in <hi>Algebra,</hi> takes off the force of thoſe Figures it is annexed to: and the day is our own once more. I never yet knew any Act ſo ſtout, as that it was not, like the Dragon in the <hi>Apocrypha,</hi> in danger of being ſplit by theſe hairs. Tacking of words one to another, is not more neceſſary for the <hi>confounding of ſenſe</hi> to our Tea<g ref="char:EOLhyphen"/>chers, than Tacking of Bills for the <hi>confounding of buſineſs</hi> to our Stateſmen. However I muſt acknowledge to thee, that I like not this ſtile of Rhetorick, which they have now li't-on at Court. Such reſolution and briskneſs, if pur<g ref="char:EOLhyphen"/>ſued, will utterly ruine us. A ſoft, meek, con<g ref="char:EOLhyphen"/>deſcending Speech for my money: Oh! this is Oyl to the Fire. When we hear ſuch an one, we begin to think <hi>them</hi> guilty enough, and <hi>our ſelves</hi> their Maſters. In like manner we want mighti<g ref="char:EOLhyphen"/>ly the old way of <hi>taking off,</hi> which certainly,
+<pb n="6" facs="tcp:45176:5" rendition="simple:additions"/>while it held, was one of the greateſt <hi>Revenues</hi> of our Cauſe.</p>
+            <p>It is a great pity that our <hi>Stratagem</hi> of remo<g ref="char:EOLhyphen"/>ving Miniſters took not. 'Twas an excellent good one, and had done our work effectually. By this means, we ſhould have ſtript the King of his Friends: For, who, doſt think, would have ven<g ref="char:EOLhyphen"/>tur'd the being a Counſellor, unleſs he could Pro<g ref="char:EOLhyphen"/>pheſie what advice would be grateful to us, and would be ſure to give none elſe: and that would not ſerve his turn neither, for, we <hi>would be ſure</hi> to diſapprove it at a venture: beſides, it is our priviledge (and we have Precedents for it) to accuſe him, without being bound to ſhew any cauſe, which, how Paradoxical ſoever it may ſeem, is both juſt and honeſt; For, <hi>Vox Populi, Vox Dei:</hi> and, thou knowſt whoſe Repreſentatives we are. Moreover, had this Plot taken, the King had not only <hi>loſt,</hi> but we had <hi>got</hi> Friends. We have daily experience in what ſtead we are ſerved by <hi>outed</hi> Stateſmen. The <hi>Turks</hi> and we are much of a nature, and <hi>Renegadoes</hi> commonly prove the beſt <hi>Captains</hi> to us both.</p>
+            <p>We muſt endeavour to leſſen the Houſe of Lords, as much as we can; (<hi>Nobility</hi> and <hi>Trea<g ref="char:EOLhyphen"/>chery</hi> ſeldom fadging well together) and in order thereunto we begin to act, as if there were no ſuch thing in the World. We pronounce, that all <hi>Treaties,</hi> and other <hi>State-Tranſactions,</hi> ought to be conformable to our <hi>Addreſſes;</hi> and though the Lords <hi>better Education, frequent Travelling
+<pb n="7" facs="tcp:45176:5" rendition="simple:additions"/>abread, &amp;c.</hi> do generally fit them more for conſi<g ref="char:EOLhyphen"/>derations of this kind, yet men ought to believe (as we do our ſelves) that each of us comes from the Plough like another <hi>Serranus,</hi> and being once the Creature of a dozen <hi>Shoo-makers,</hi> or ſuch-like Fellows, (and theſe drunk too) is ſufficiently <hi>gifted</hi> for the Government of a Nation. And the beſt is, that as amongſt the Biſhops we have ſome who fa<g ref="char:EOLhyphen"/>vour <hi>Presbytery,</hi> which is, <hi>No Biſhops,</hi> ſo among the Lords we have ſome <hi>Birthright-ſellers</hi> who carry on our <hi>Democracy,</hi> which is, <hi>No Lords.</hi>
+            </p>
+            <p>But, at preſent, our great and <hi>true</hi> grievance is the New-raiſed Army. We'l <hi>ſit</hi> hard, but it ſhall not <hi>ſtand</hi> long. We are reſolved, like green Peaſe, (the ſeaſon affords me the ſimilitude) to eat 'em young, though it coſt us never ſo dear: they may grow too hard for our teeth. And therefore (to carry on the Metaphor) we <hi>butter 'em,</hi> and <hi>pepper 'em.</hi> We ſooth 'em with fair words, and joyn iſſue with the King in calling 'em brave men, and ſuch as ſpent their <hi>livelihoods</hi> that they might venture their <hi>lives</hi> for their Country. And at the ſame time we are about to appoint Committees for the receiving complaints, and hearing the lamentable cries of ſeveral <hi>Pigs</hi> and <hi>Geeſe</hi> againſt them, and have ordered ſtories to be brought in of more <hi>im<g ref="char:EOLhyphen"/>portant Outrages.</hi> Somewhat in imitation of the <hi>Scotch</hi> ſtratagem: but, the truth is, the <hi>Scots</hi> have the advantage of us in this point, not only becauſe they are the more <hi>demure,</hi> and conſequently the <hi>better,</hi> lyars, (and men hardly ſuſpect ſo much <hi>wit,</hi>
+               <pb n="8" facs="tcp:45176:6"/>as a <hi>lie</hi> comes to, in that <hi>tone</hi>) but alſo becauſe the Scene of their <hi>Drama</hi> is more remote, and their ſtories not ſo eaſily <hi>diſproved</hi> as ours. In all caſes we firmly purpoſe one way or other to get rid of this <hi>upſtart</hi> Monſter. For, elſe, what would thoſe tumults, thou ſpeak'ſt of, ſignifie? We'l disband 'em, if it be but to find 'em again, when we our ſelves need 'em. We'l ſerve 'em as a Printer doth his Letters, diſtribute 'em after the printing one ſheet into their reſpective Boxes, that, when occa<g ref="char:EOLhyphen"/>ſion is, they may be ſet in a <hi>new form</hi> to print another.</p>
+            <p>Thou need'ſt not bid us to ſet the pattern of 41 before our eyes: but I ſhould be glad thou couldſt tell us a way of removing it from thoſe of others: It doth us no ſmall miſchief. Would to Jove, the Act of <hi>Oblivion</hi> had been more efficacious, and correſponded better to the ends, for which we de<g ref="char:EOLhyphen"/>ſir'd it; which were only, thou know'ſt, that their Party might not remember, <hi>to prevent,</hi> nor ours <hi>to forbear.</hi> But we are never content. What an ungrateful Rogue am I to grumble ſo much, when I ought rather to thank the Devil, that (for the generality) thoſe <hi>impreſſions</hi> are at this time ſo well worn out, that men begin to hear with pa<g ref="char:EOLhyphen"/>tience, what they would have abhorr'd five or ſix years ago, and <hi>now</hi> prick up their ears, where <hi>then</hi> their hair would have ſtood an end?</p>
+            <p>Before I go any farther, I think fit to advertiſe thee of one thing, which is, that thou muſt not think, for any thing thou read'ſt here, that the
+<pb n="9" facs="tcp:45176:6" rendition="simple:additions"/>Nation, or Houſe of Commons are all of our Party. No; we have a very ſmall one in either. But 'tis no news to thee, that the <hi>Phariſees</hi> are of the quality of Leaven: a little ſerves to influence the lump. Our buſineſs in the Houſe is, by ſpe<g ref="char:EOLhyphen"/>cious pretences and covert lyes, (the <hi>Tools</hi> of our Trade) to <hi>work</hi> a League offenſive and defenſive with ſeveral honeſt Gentlemen, who <hi>mean</hi> better than they <hi>underſtand,</hi> and by this courſe, when <hi>Noſes</hi> are told, (thanks to <hi>thoſe</hi> which we lead) for the moſt part we exceed by <hi>one</hi> or <hi>two:</hi> and ſuch a Vote is as much the <hi>Common Juſtice and Prudence,</hi> as if it had been made <hi>Nemine contra<g ref="char:EOLhyphen"/>dicente.</hi> I aſſure thee, this is a great <hi>Prerogative</hi> of the Houſe, and vaſt <hi>Priviledge</hi> for the Mem<g ref="char:EOLhyphen"/>bers; For, by this means many times a Noddle that hath never a dram of ſenſe in it, comes in a trice to be the <hi>ſenſe of the Nation.</hi>
+            </p>
+            <p>Prithee, as ſoon as thou canſt, ſend me over ſome <hi>Hand-Granadoes,</hi> I mean, ſome pretty quaint <hi>ſtories</hi> to throw among the People. Popery is as good a Topick, as ever; it holds out admirably well. This morning a man brought me a dozen of Stories to ſell; and at leaſt nine or ten of 'em were on that ſubject. But I refus'd 'em all for improbable, ſave only one, which was of 50 Prieſts hid in a Cave in <hi>Wales,</hi> which he offered to prove out of the <hi>Old Teſtament,</hi> ſaying that <hi>Abdias</hi>'s hiding the Prophets was not <hi>History,</hi> but <hi>Propheſie.</hi> There was another, of a ſecret League between <hi>England</hi> and <hi>France,</hi> ſeal'd and
+<pb n="10" facs="tcp:45176:7"/>deliver'd by the two Kings in the preſence of cer<g ref="char:EOLhyphen"/>tain <hi>Brandenburghers,</hi> which was pretty paſſable, and I may chance to buy.</p>
+            <p>But now to the main: Bid the <hi>French Agent</hi> endeavour to have our <hi>Subſidies</hi> better complied with. What? does he think the 50 thouſand Piſtols return'd hither the other day ſuch a buſi<g ref="char:EOLhyphen"/>neſs? Mind him of our <hi>natural Antipathy</hi> againſt his Nation, and that it requires a great deal to take <hi>this</hi> off, and make us fit for Bribery <hi>on the ſquare.</hi> But let him not deſpond: Money will do the work: 'tis that (as a modern Author, though an Enemy, truly ſays) which <hi>makes all doctrines plain and clear.</hi> This will force us to miſtake the <hi>French</hi> King for the <hi>Spaniſh:</hi> and with good rea<g ref="char:EOLhyphen"/>ſon too, when his Gold ſpeaks him ſo great a Maſter of the <hi>Indies.</hi> We'l make the <hi>whole</hi> Na<g ref="char:EOLhyphen"/>tion ſerve him: that is, we'l do his buſineſs, and receive his Money, and the Courtiers ſhall bear the blame. But, in good truth and ſober ſadneſs, we muſt watch the <hi>Monſieur</hi>'s waters, and aſſiſt no farther to the <hi>breaking</hi> of the <hi>Confederacy,</hi> than it conduceth to the <hi>piecing up</hi> of the <hi>Covenant.</hi> We may elſe bring our Hogs to a fair Market: that is, 'ene be <hi>ſold</hi> for Slaves. Did you ever hear of ſuch a wheedling Letter, as he ſent lately to our Brethren the <hi>States?</hi> He looks like the <hi>Hostler</hi> with his Hat in his hand, and a little Oats in't, and his <hi>Bridle</hi> under his arm: If he catch the <hi>Beaſt,</hi> he'l try if he can ſit it better than the <hi>Spa<g ref="char:EOLhyphen"/>niard;</hi> and, I'le warrant, he'l be ſure to <hi>girt</hi> its
+<pb n="11" facs="tcp:45176:7"/>fat belly ſtreight enough, and never be at the expence of <hi>ſhooing.</hi>
+            </p>
+            <p>It grieves me, that we have loſt ſo prime a Pen, as thou mention'ſt; but my comfort is, that our Authors ſeldom write well of the right ſide. Be<g ref="char:EOLhyphen"/>ſides, we have ſuch ſtore of Wits amongſt us, that we hardly miſs him: For, thanks be to Jove, the Saints now are not only famous for profound hum-drum Non-ſenſe, but we have as <hi>ſhrewd rail<g ref="char:EOLhyphen"/>lerie,</hi> and <hi>tart drolling,</hi> as any is among the <hi>pro<g ref="char:EOLhyphen"/>phane;</hi> ſo that now under the Sheep's skin you have not only the <hi>Wolf,</hi> but the <hi>Monkey</hi> alſo: and if thou conſider'ſt the intollerable Fornication amongſt us, thou'lt ſay, we've hook'd in the <hi>Goat</hi> to be of our Party too. We are infinitely impro<g ref="char:EOLhyphen"/>ved ſince our firſt inſtitution. Our way is broader than it was, and more comprehenſive: We take in all Sects but <hi>Epiſcopacy,</hi> and have greater ſtore of <hi>Deists</hi> and <hi>Atheists,</hi> than the Conformiſts. Perhaps thou ſmileſt, when I tell thee of <hi>Atheiſts,</hi> but I aſſure thee (which is, doubtleſs, a <hi>miracle</hi> in confirmation of our doctrine) there are no greater ſticklers for Religion than <hi>our Atheiſts;</hi> which makes me not queſtion, but they're of the <hi>Elect:</hi> but the Atheiſts of the <hi>other ſide</hi> are in a ſad condition.</p>
+            <p>There's no fear of <hi>Andrew</hi>'s deſertion: He's of a right ſtock. <hi>Hull</hi> has an exact Repreſentative in him, and hardly intoxicates more by its <hi>Ale,</hi> than by its <hi>Burgeſs.</hi> He is a firſt-rate Wit, and you may know him to be a good <hi>Satyr</hi> by the <hi>Signature.</hi>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:45176:8"/>This goes not in <hi>Cypher,</hi> becauſe of the oppor<g ref="char:EOLhyphen"/>tunity I have of this <hi>Expreſs,</hi> who is an honeſt and truſty Gentleman. He is one of our <hi>Coffee-houſe Meſſengers,</hi> who viſit thoſe Houſes, better than any <hi>Biſhop</hi> his Dioceſs, and as punctually as the <hi>Carriers</hi> of the <hi>Play-houſe</hi> Bills, only with this diffe<g ref="char:EOLhyphen"/>rence, that theſe tell you what is to be <hi>acted</hi> or <hi>counterfeited</hi> to day, and our men relate what was <hi>acted and counterfeited</hi> yeſterday. In fine, they are <hi>Politick Rat-catchers,</hi> that walk every day from <hi>Man</hi>'s in the Court of Requeſts, to <hi>Garoway</hi>'s by the Exchange, and crumble their <hi>State-Ratsbane</hi> in every Coffee-houſe, as they go. But I muſt leave off, being juſt now order'd by the <hi>Juncto</hi> to draw up ſome more <hi>Relations</hi> of proceedings in the lower Houſe, in ſuch <hi>faſhion,</hi> as may be moſt <hi>creditable</hi> and <hi>advantagious</hi> for the Cauſe, which are to be ſent into the Country after the reſt, which, we hear, operate <hi>kindly,</hi> and do admirable ſervice there.</p>
+            <p>Pray let me conſtantly hear how ſquares go in thy Province, and what ground the Devil gets in his <hi>Neighbourhood</hi> the <hi>Low-Countries.</hi>
+            </p>
+            <p>Now according to form I ſhould ſay, <hi>So I reſt:</hi> But we proteſt againſt <hi>Forms,</hi> as I do moſt eſpe<g ref="char:EOLhyphen"/>cially againſt this, for, to ſay truth amongſt Friends, I can never <hi>reſt,</hi> till — Therefore without any more ado, I am,</p>
+            <closer>
+               <salute>Dear Fellow-Labourer,</salute>
+               <signed>
+                  <hi>Whom</hi> and <hi>What</hi> thou know'ſt.</signed>
+               <dateline>
+                  <hi>Lond.</hi> 
+                  <date>
+                     <hi>June</hi> 5. 78.</date> S. V.</dateline>
+            </closer>
+            <pb facs="tcp:45176:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
